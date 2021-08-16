@@ -1,0 +1,32 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #aeebf0;
+}
+
+#left {
+    width: 50%;
+    height: 100vh;
+}
+
+#right {
+    width: 50%;
+    min-height: 100vh;
+    background: rgb(184, 133, 250);
+}
+
+#branding {
+    width: 200px;
+    height: auto;
+}
+
+#condition {
+    width: 100px;
+    height: auto;
+}
+
+#master-history {
+    display: none
+}
